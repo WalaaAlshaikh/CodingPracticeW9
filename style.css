@@ -1,0 +1,82 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: #ffa500;
+    font-size: 30px;
+  }
+  .navbar{
+    background-color: #ffd483;
+  }
+
+ .navbar .navbar-brand{
+    color: #3931af !important;
+    font-weight: bold;
+  }
+  .nav-link{
+    color: #3931af !important;
+
+  }
+
+ /* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 20px;
+    left: 50px;
+  }
+
+
+  
+ .how-section1{
+    margin-top: -5%;
+   
+    padding: 10%;
+
+}
+.how-section1 h4{
+    color: #ffa500;
+    font-weight: bold;
+    font-size: 30px;
+}
+.how-section1 .subheading{
+    color: #3931af;
+    font-size: 20px;
+}
+.how-section1 .row
+{
+    margin-top: 5%;
+}
+.how-img 
+{
+    text-align: center;
+}
+.how-img img{
+    width: 60%;
+}
+
+.footer{
+    background-color: #ffd483;
+}
+.contact-text{
+    color: #3931af;
+}
+.contact{
+    color: #ffa500;
+}
+p{
+    letter-spacing: 2px;
+}
+h4{
+    letter-spacing: 2px;
+}
+a{
+    letter-spacing: 2px;
+}
+.w3-input {
+    letter-spacing: 2px;
+}
+.btn{
+    letter-spacing: 2px;
+    background: #ffd483 !important;
+    color: #3931af !important;
+    border: solid 2px #3931af !important;
+}
